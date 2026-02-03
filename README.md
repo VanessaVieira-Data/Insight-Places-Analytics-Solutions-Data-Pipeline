@@ -14,7 +14,7 @@ This project simulates a real data analytics ecosystem for the fictitious compan
 For project management and task organization, I utilize the **Kanban** methodology.
 
 ### 🚧 Project Status: In Development
-*I have finalized the SQL stage and am currently starting the ETL process in Python.*
+*I have finalized the SQL stage and I am currently starting the ETL process in Python.*
 
 ### 🛠️ What has been implemented so far (SQL Layer):
 * **Data Architecture:** Structuring and altering tables using `ALTER TABLE`.
