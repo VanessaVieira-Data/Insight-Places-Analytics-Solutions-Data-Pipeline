@@ -24,13 +24,13 @@ For project management and task organization, I utilize the **Kanban** methodolo
 * **Evolutionary Maintenance:** Strategic record deletion (`DELETE`) respecting the Parent-Child hierarchy.
 * **⚙️ Data Integration & ETL (Python Layer - Part 1):**
 
-   *Robust Infrastructure: Established a secure connection between Python and MySQL using SQLAlchemy and PyMySQL.
+   * **Robust Infrastructure:** Established a secure connection between Python and MySQL using SQLAlchemy and PyMySQL.
 
-   *Data Wrangling: Comprehensive processing of 6 datasets, ensuring data type consistency and correct mapping from Portuguese to English.
+   * **Data Wrangling:** Comprehensive processing of 6 datasets, ensuring data type consistency and correct mapping from Portuguese to English.
 
-   *Relational Migration: Successful upload of 9,983 records across 6 relational tables, ensuring that special characters and line breaks (\n) were correctly interpreted by the database engine.
+   * **Relational Migration:** Successful upload of 9,983 records across 6 relational tables, ensuring that special characters and line breaks (\n) were correctly interpreted by the database engine.
 
-   *Security & Connectivity: Implementation of database engine management and final backup routines.
+   * **Security & Connectivity:** Implementation of database engine management and final backup routines.
 ### 🔍 Next Steps:
 
 #### 🐍 Python Stage (Processing & Automation)
@@ -60,13 +60,13 @@ Para a gestão e organização das tarefas, utilizo a metodologia **Kanban**.
 * **Manutenção Evolutiva:** Exclusão estratégica de registros (`DELETE`) respeitando a hierarquia Pai-Filho.
 * **⚙️ Integração de Dados e ETL (Camada Python - Parte 1):**
 
-   *Infraestrutura Robusta: Estabeleci uma conexão segura entre Python e MySQL utilizando SQLAlchemy e PyMySQL.
+   * **Infraestrutura Robusta:** Estabeleci uma conexão segura entre Python e MySQL utilizando SQLAlchemy e PyMySQL.
 
-   *Data Wrangling: Processamento completo de 6 datasets brutos, garantindo a consistência dos tipos de dados e o mapeamento correto de português para inglês.
+   * **Data Wrangling:** Processamento completo de 6 datasets brutos, garantindo a consistência dos tipos de dados e o mapeamento correto de português para inglês.
 
-   *Migração Relacional: Carga de 9.983 registros distribuídos em 6 tabelas relacionais, garantindo que caracteres especiais e quebras de linha (\n) fossem corretamente interpretados pelo motor do banco de dados.
+   * **Migração Relacional:** Carga de 9.983 registros distribuídos em 6 tabelas relacionais, garantindo que caracteres especiais e quebras de linha (\n) fossem corretamente interpretados pelo motor do banco de dados.
 
-   *Segurança e Conectividade: Implementação de gestão de engine e rotinas de backup final.
+   * **Segurança e Conectividade:** Implementação de gestão de engine e rotinas de backup final.
 ## 🔍 Próximos Passos:
 
 ### 🐍 Etapa Python (Tratamento e Automação)
