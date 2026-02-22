@@ -24,13 +24,13 @@ For project management and task organization, I utilize the **Kanban** methodolo
 * **Evolutionary Maintenance:** Strategic record deletion (`DELETE`) respecting the Parent-Child hierarchy.
 * **⚙️ Data Integration & ETL (Python Layer - Part 1):**
 
-- Robust Infrastructure: Established a secure connection between Python and MySQL using SQLAlchemy and PyMySQL.
+  - Robust Infrastructure: Established a secure connection between Python and MySQL using SQLAlchemy and PyMySQL.
 
-- Data Wrangling: Comprehensive processing of 6 datasets, ensuring data type consistency and correct mapping from Portuguese to English.
+  - Data Wrangling: Comprehensive processing of 6 datasets, ensuring data type consistency and correct mapping from Portuguese to English.
 
-- Relational Migration: Successful upload of 9,983 records across 6 relational tables, ensuring that special characters and line breaks (\n) were correctly interpreted by the database engine.
+  - Relational Migration: Successful upload of 9,983 records across 6 relational tables, ensuring that special characters and line breaks (\n) were correctly interpreted by the database engine.
 
-- Security & Connectivity: Implementation of database engine management and final backup routines.
+  - Security & Connectivity: Implementation of database engine management and final backup routines.
 ### 🔍 Next Steps:
 
 #### 🐍 Python Stage (Processing & Automation)
