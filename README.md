@@ -22,18 +22,23 @@ For project management and task organization, I utilize the **Kanban** methodolo
 * **Data Analysis:** Development of scripts for customer behavior and owner performance analysis, focusing on generating business value.
 * **Security & Integrity:** Backup routines (Dumps) and dependency investigation (Foreign Keys) to ensure data health.
 * **Evolutionary Maintenance:** Strategic record deletion (`DELETE`) respecting the Parent-Child hierarchy.
+* **⚙️ Data Integration & ETL (Python Layer - Part 1):**
 
+   * **Robust Infrastructure:** Established a secure connection between Python and MySQL using SQLAlchemy and PyMySQL.
+
+   * **Data Wrangling:** Comprehensive processing of 6 datasets, ensuring data type consistency and correct mapping from Portuguese to English.
+
+   * **Relational Migration:** Successful upload of 9,983 records across 6 relational tables, ensuring that special characters and line breaks (\n) were correctly interpreted by the database engine.
+
+   * **Security & Connectivity:** Implementation of database engine management and final backup routines.
 ### 🔍 Next Steps:
 
 #### 🐍 Python Stage (Processing & Automation)
-- [ ] Automated connection to the MySQL database.
-- [ ] **Data Wrangling:** Data cleaning, standardization, and outlier treatment using the **Pandas** library.
-- [ ] Preparation of the optimized database for Power BI consumption.
+- [ ] Development of an automated pipeline to refresh data without manual intervention.
 
 #### 📊 Power BI Stage (Strategic Insights)
 - [ ] Data modeling (Star Schema).
 - [ ] Creation of an interactive Dashboard with revenue and occupancy KPIs.
-- [ ] Development of basic predictive analysis for decision support.
 
 ---
 
@@ -53,15 +58,21 @@ Para a gestão e organização das tarefas, utilizo a metodologia **Kanban**.
 * **Análise de Dados:** Desenvolvimento de scripts para análise de comportamento de clientes e performance de proprietários, focando em geração de valor para o negócio.
 * **Segurança e Integridade:** Rotinas de Backup (Dumps) e investigação de dependências (Foreign Keys) para garantir a saúde dos dados.
 * **Manutenção Evolutiva:** Exclusão estratégica de registros (`DELETE`) respeitando a hierarquia Pai-Filho.
+* **⚙️ Integração de Dados e ETL (Camada Python - Parte 1):**
 
+   * **Infraestrutura Robusta:** Estabeleci uma conexão segura entre Python e MySQL utilizando SQLAlchemy e PyMySQL.
+
+   * **Data Wrangling:** Processamento completo de 6 datasets brutos, garantindo a consistência dos tipos de dados e o mapeamento correto de português para inglês.
+
+   * **Migração Relacional:** Carga de 9.983 registros distribuídos em 6 tabelas relacionais, garantindo que caracteres especiais e quebras de linha (\n) fossem corretamente interpretados pelo motor do banco de dados.
+
+   * **Segurança e Conectividade:** Implementação de gestão de engine e rotinas de backup final.
 ## 🔍 Próximos Passos:
 
 ### 🐍 Etapa Python (Tratamento e Automação)
-- [ ] Conexão com o banco de dados MySQL.
-- [ ] Limpeza de dados (Data Wrangling) e tratamento de outliers com a biblioteca **Pandas**.
-- [ ] Exportação dos dados tratados para consumo no Power BI.
+- [ ] Desenvolvimento de um pipeline automatizado para atualização de dados sem intervenção manual.
 
 ### 📊 Etapa Power BI (Insights Estratégicos)
 - [ ] Modelagem de dados (Star Schema).
 - [ ] Criação de Dashboard interativo com KPIs de faturamento e ocupação.
-- [ ] Desenvolvimento de análises preditivas básicas para suporte à decisão. 
+
