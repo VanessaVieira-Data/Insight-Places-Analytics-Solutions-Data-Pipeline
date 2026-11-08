@@ -69,7 +69,7 @@ This initiative followed the **Kanban methodology** to structure data engineerin
 
 ## 🇧🇷 Versão em Português
 
-**Português** | [English](#-english-version)
+**Português** | [![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](#-english-version)
 
 ### 📋 Visão Geral do Projeto
 Este projeto simula um ecossistema real de engenharia e análise de dados para a **Insight Places**, uma empresa fictícia de hospedagens e aluguel por temporada. O objetivo principal foi construir um pipeline de dados ponta a ponta integrando **MySQL, Python e Power BI**, transformando dados brutos transacionais em um banco de dados relacional enriquecido e preparado para inteligência de negócios estratégica.
