@@ -9,7 +9,6 @@
 
 ## 🇬🇧 English Version
 
-[Português](#-vers%C3%A3o-em-portugu%C3%Aas) | **English**
 
 ### 📋 Project Overview
 This project simulates an end-to-end data engineering and analytics ecosystem for **Insight Places**, a fictitious vacation rental and property management platform. The primary objective is to build a robust data pipeline integrating **MySQL, Python, and Power BI**, transforming raw transactional records into an enriched relational database engineered for high-level business intelligence and strategic decision-making.
